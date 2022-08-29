@@ -10,7 +10,7 @@ INSERT INTO role (title, salary, departmentID) VALUES ("Resources Assistant", 25
 INSERT INTO role (title, salary, departmentID) VALUES ("Marketing Lead", 100000, 2);
 INSERT INTO role (title, salary, departmentID) VALUES ("Advertisement Assoc.", 45000, 2);
 
-INSERT INTO role (title, salary, departmentID) VALUES ("Deparment Store Supervisor", 93000, 3);
+INSERT INTO role (title, salary, departmentID) VALUES ("Store Supervisor", 93000, 3);
 INSERT INTO role (title, salary, departmentID) VALUES ("Belt Worker", 38000, 3);
 INSERT INTO role (title, salary, departmentID) VALUES ("Driver" 55000, 3);
 
