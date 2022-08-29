@@ -15,7 +15,3 @@ In order to use this application, you must first clone all files. Then, use 'npm
 ## Technology learnt/used
 
 - SQL, inquirer
-
-## Site:
-
-- Link to deployed app:
