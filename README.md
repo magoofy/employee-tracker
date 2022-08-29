@@ -15,3 +15,7 @@ In order to use this application, you must first clone all files. Then, use 'npm
 ## Technology learnt/used
 
 - SQL, inquirer
+
+## Video Tutorial
+
+https://drive.google.com/file/d/15D3q6tWIFfIoDkQ88jic-Oe80shZHq3Y/view
